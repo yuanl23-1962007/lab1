@@ -13,3 +13,5 @@ Reasons:
 x <-5
 y <- 'hello'
 ```
+
+`inline` code
